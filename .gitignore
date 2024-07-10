@@ -1,0 +1,9 @@
+*.tgz
+*.o
+/3color/generator
+/3color/supervisor
+/mydiff/mydiff
+/forksort/forksort
+/forksort/bonus
+/http/client
+/http/server
